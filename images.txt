@@ -18,7 +18,7 @@ emby/embyserver:latest
 linuxserver/emulatorjs:1.9.2
 filebrowser/filebrowser
 filegator/filegator:latest
-asonbean/guacamole:latest
+guacamole/guacamole:latest
 jlesage/handbrake
 hectorqin/reader:latest
 homeassistant/home-assistant:latest
