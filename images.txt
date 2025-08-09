@@ -16,7 +16,6 @@ dpanel/dpanel:latest
 lscr.io/linuxserver/duplicati
 emby/embyserver:latest
 linuxserver/emulatorjs:1.9.2
-nriver/episode-rename:latest
 filebrowser/filebrowser
 filegator/filegator:latest
 asonbean/guacamole:latest
