@@ -89,3 +89,4 @@ ghcr.io/open-webui/open-webui:main
 kasmweb/ubuntu-jammy-desktop:1.17.0-rolling-weekly
 ghcr.io/seriousm4x/upsnap:4
 lihaixin/webssh2:ssh
+wukongdaily/box:latest
