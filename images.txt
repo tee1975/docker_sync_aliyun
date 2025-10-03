@@ -8,11 +8,13 @@ authelia/authelia:latest
 binhex/arch-krusader
 ghcr.io/advplyr/audiobookshelf:latest
 shenxianmq/auto_symlink:latest
+itefuir/alist-strm:latest
 wukongdaily/box:latest
 allanpk716/chinesesubfinder
 cloudnas/clouddrive2:latest
 johngong/calibre-web
 wwfnle/chinesesubfinder
+jiangrui1994/cloudsaver:test
 crazymax/diun:latest
 dpanel/dpanel:latest
 dpanel/dpanel:lite
@@ -53,6 +55,7 @@ foamzou/melody:latest
 mtphotos/mt-photos:latest
 mtphotos/mt-photos-ai:latest
 mtphotos/mt-photos-deepface:latest
+devfox101/mt-photos-insightface-unofficial:latest
 registry.cn-hangzhou.aliyuncs.com/moneynote/moneynote-all:latest
 xhongc/music_tag_web
 yipengfei/movie-robot:latest
@@ -65,9 +68,16 @@ ghcr.io/open-webui/open-webui:main
 ionewu/owjdxb
 justsong/one-api:latest
 msterzhang/onelist:latest
+hienao6/openlist-strm:latest
+openlistteam/openlist:latest
+openlistteam/openlist:latest-ffmpeg
+openlistteam/openlist:latest-aio
+openlistteam/openlist:latest-lite-aio
 6053537/portainer-ce:latest
 mikenye/picard:latest
 plexinc/pms-docker:latest
+docker.io/wu529778790/panhub.shenzjd.com:latest
+ghcr.io/fish2018/pansou-web
 ddg5366/roonserver:b1126old1
 ddg5366/roonserver:latest
 hectorqin/reader:latest
@@ -75,6 +85,7 @@ inglebard/retroarch-web
 rustdesk/rustdesk-server:latest
 b3log/siyuan:latest
 ghcr.io/seriousm4x/upsnap:4
+cp0204/smartstrm:latest
 vaultwarden/server:latest
 jlesage/thunderbird
 tinymediamanager/tinymediamanager:latest
