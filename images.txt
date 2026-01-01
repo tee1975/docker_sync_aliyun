@@ -105,3 +105,10 @@ alturismo/xteve_guide2go:latest
 loganjindev/zerotier-ztncui:latest
 spikhalskiy/zerotier:latest
 zerotier/zerotier:latest
+nurdlewang/okstrm:1.0.31
+akimio/autofilm
+zqing90/audiobookshelf-provider-douban:latest
+shanyan-wcx/Abs-Ximalaya
+jlesage/czkawka
+peweelive/webtop-chinese:latest
+jasonbean/guacamole
