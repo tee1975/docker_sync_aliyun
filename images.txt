@@ -68,7 +68,7 @@ ghcr.io/open-webui/open-webui:main
 ionewu/owjdxb
 justsong/one-api:latest
 msterzhang/onelist:latest
-hienao6/openlist-strm:latest
+hienao6/ostrm:latest
 openlistteam/openlist:latest
 openlistteam/openlist:latest-ffmpeg
 openlistteam/openlist:latest-aio
