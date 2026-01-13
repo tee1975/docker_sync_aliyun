@@ -108,7 +108,9 @@ zerotier/zerotier:latest
 nurdlewang/okstrm:1.0.31
 akimio/autofilm
 zqing90/audiobookshelf-provider-douban:latest
-shanyan-wcx/Abs-Ximalaya
+shanyanwcx/abs-ximalaya:latest
 jlesage/czkawka
 peweelive/webtop-chinese:latest
 jasonbean/guacamole
+oldiy/dosgame-web-docker:latest
+firezmc/dosgame-web-docker:v3.9.6
