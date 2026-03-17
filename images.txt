@@ -116,3 +116,4 @@ oldiy/dosgame-web-docker:latest
 firezmc/dosgame-web-docker:v3.9.6
 fleyx/open-renamer:latest
 registry.cn-guangzhou.aliyuncs.com/fnapp/trim-chromium:latest
+jxxghp/moviepilot-v2:latest
