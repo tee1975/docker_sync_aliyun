@@ -117,3 +117,5 @@ firezmc/dosgame-web-docker:v3.9.6
 fleyx/open-renamer:latest
 registry.cn-guangzhou.aliyuncs.com/fnapp/trim-chromium:latest
 jxxghp/moviepilot-v2:latest
+jlesage/mkvtoolnix
+ponphil/litepan:latest
