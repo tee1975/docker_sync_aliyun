@@ -30,7 +30,6 @@ jobs:
     - name: Maximize build space
       uses: easimon/maximize-build-space@master
       with:
-
         root-reserve-mb: 2048
         swap-size-mb: 128
         remove-dotnet: 'true'
@@ -50,11 +49,13 @@ jobs:
         df -hT
         echo "=============================================================================="
 
+    # 修复点1：checkout v4 → v5
     - name: Checkout Code
-      uses: actions/checkout@v4
+      uses: actions/checkout@v5
 
+    # 修复点2：buildx v3 → v4
     - name: Docker Setup Buildx
-      uses: docker/setup-buildx-action@v3
+      uses: docker/setup-buildx-action@v4
 
     - name: Build and push image Aliyun
       run: |
