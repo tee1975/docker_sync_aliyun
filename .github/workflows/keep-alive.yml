@@ -8,7 +8,8 @@ jobs:
   empty-commit:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      # 从 @v4 → @v5，v5 使用 Node.js 22，不再触发弃用警告
+      - uses: actions/checkout@v5
       - name: Create empty commit
         run: |
           git config --global user.name "GitHub Actions"
